@@ -44,4 +44,4 @@ def coh(reader):
     if not deficit_encountered:
         print(f"[CASH SURPLUS] CASH ON EACH DAY IS HIGHER THAN THE PREVIOUS DAY")
     return highest_surplus, highest_surplus_day, cdeficit_list
-
+         
